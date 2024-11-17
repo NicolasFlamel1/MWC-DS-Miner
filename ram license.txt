@@ -1,0 +1,8 @@
+Copyright 2007 Rick "Lick" Wong
+http://lickr.org
+http://licklick.wordpress.com
+
+Credits: Amadeus, Chishm, Cory1492, Lazy1, Pepsiman, Viruseb
+
+Dual licensed under the MIT (http://www.opensource.org/licenses/mit-license.php) 
+and GPLv2 (http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt) licenses.
